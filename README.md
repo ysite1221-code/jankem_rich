@@ -6,7 +6,7 @@
 - abeモード作動で、画像差し替えと常に全勝で奢りたい人向けという合理性のない改造
 
 ## ③アプリのデプロイURL
-[デプロイしている場合はURLを記入（任意）](https://ysite1221-code.github.io/jankem_rich/)
+(https://ysite1221-code.github.io/jankem_rich/)
 
 ## ④アプリのログイン用IDまた
 - ID/PW: 今回はなし
